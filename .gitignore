@@ -7,3 +7,7 @@ datasets/
 my_keras_model/
 my_logs/
 my_fashion_mnist/
+my_mnist_logs/
+my_mnist_model
+*checkpoint
+*_checkpoint*

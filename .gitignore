@@ -4,3 +4,4 @@ datasets/
 *.csv
 *.mmap
 *.png
+my_keras_model/

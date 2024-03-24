@@ -5,3 +5,5 @@ datasets/
 *.mmap
 *.png
 my_keras_model/
+my_logs/
+my_fashion_mnist/

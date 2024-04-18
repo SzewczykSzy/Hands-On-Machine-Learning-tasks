@@ -11,3 +11,4 @@ my_mnist_logs/
 my_mnist_model
 *checkpoint
 *_checkpoint*
+*/my_*/

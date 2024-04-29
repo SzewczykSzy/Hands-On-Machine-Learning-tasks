@@ -12,3 +12,5 @@ my_mnist_model
 *checkpoint
 *_checkpoint*
 */my_*/
+*tfrecord*
+*.pyc*
